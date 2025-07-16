@@ -4,7 +4,7 @@ En este proyecto realizaré un dashboard relacionado con el personal de una empr
 
 ## :outbox_tray: Cargando los datos
 
-Realizar el cargue de la información de las ventas a POWER BI en este caso la información se encuentra en EXCEL:
+Realizar el cargue de la información de las ventas a POWER BI en este caso la información se encuentra en EXCEL:  
 **:link: [DataRecursosHumanos.xlxs](https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/docs/DataRecursosHumanos.xlsx)**
 
 - Tras realizar la operación se puede visualizar la información cargada:
