@@ -107,5 +107,5 @@ Para el reporte agregaré un fondo, targetas y diagramas que mejor se adapten pa
 </div>
 <br>
 
-**:link: [Dashboard-Recursos-Humanos.pbix](https://raw.githubusercontent.com/WilliamLopez663/Recursos-Humanos/main/assets/docs/Dashboard-Recursos-Humanos.pbix)**
+**:link: [Dashboard-Recursos-Humanos.pbix](https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/docs/Dashboard-Recursos-Humanos.pbix)**
 
