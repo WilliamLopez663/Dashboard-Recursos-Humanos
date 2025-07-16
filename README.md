@@ -1,4 +1,4 @@
-# Dashboard Recursos Humanos
+# :clipboard: Dashboard Recursos Humanos
 En este proyecto realizaré un dashboard relacionado con el personal de una empresa. Empleados actuales, empleados despedidos, % de rotación, empleados por departamento, entre otros.
 <br><br>
 
@@ -13,7 +13,7 @@ Realizar el cargue de la información de las ventas a POWER BI en este caso la i
 </div>
 <br><br>
 
-## Creando medidas con DAX
+## :straight_ruler: Creando medidas con DAX
 
 Es necesario realizar medidas para conocer mas detalles acerca del personal:
 
@@ -41,7 +41,7 @@ Es necesario realizar medidas para conocer mas detalles acerca del personal:
 </div>
 <br><br>
 
-## Creando el reporte visual
+## :bookmark_tabs: Creando el reporte visual
 
 Para el reporte agregaré un fondo, targetas y diagramas que mejor se adapten para presentar mejor la información:
 
@@ -100,7 +100,8 @@ Para el reporte agregaré un fondo, targetas y diagramas que mejor se adapten pa
 <br>
 
 - Aplicando estilos, tamaños, aplicando filtros, fondos y quitando titulos para nuestro dashboard:
-  **`RESULTADO FINAL`**
+## :bar_chart: `RESULTADO FINAL`
+
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/resultado-final.PNG">
 </div>
