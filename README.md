@@ -93,8 +93,18 @@ Para el reporte agregaré un fondo, targetas y diagramas que mejor se adapten pa
 </div>
 <br>
 
-- Aplicando estilos, tamaños, fondos, y quitando titulos para nuestro tooltip quedaría así:
+- Aplicando estilos, tamaños, fondos y quitando titulos para nuestro tooltip quedaría así:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/tooltip-final.PNG">
 </div>
 <br>
+
+- Aplicando estilos, tamaños, aplicando filtros, fondos y quitando titulos para nuestro dashboard:
+  **`RESULTADO FINAL`**
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/resultado-final.PNG">
+</div>
+<br>
+
+**:link: [Dashboard-Recursos-Humanos.pbix](https://raw.githubusercontent.com/WilliamLopez663/Recursos-Humanos/main/assets/docs/Dashboard-Recursos-Humanos.pbix)**
+
