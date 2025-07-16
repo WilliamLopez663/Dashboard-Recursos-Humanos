@@ -81,4 +81,14 @@ Para el reporte agregaré un fondo, targetas y diagramas que mejor se adapten pa
 </div>
 <br>
 
+- Insertando una página donde crearé un tooltip que me muestre mejor pa información detallada para cada gráfico y le carga otra imagen como fondo:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/tooltip-fondo.PNG">
+</div>
+<br>
 
+- Ahora inserto tarjetas para mostrar el personal activo y salario:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/tarjeta-personal-activo-salario.PNG">
+</div>
+<br>
