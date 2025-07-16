@@ -63,4 +63,22 @@ Para el reporte agregaré un fondo, targetas y diagramas que mejor se adapten pa
 </div>
 <br>
 
+- Insertando un diagrama de cascada para visualizar la cantidad de empleados por ciudad:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/diagrama-cascada.PNG">
+</div>
+<br>
+
+- Insertando un gráfico de tipo dona para ver el tipo de género que porcentaje ocupa en la empresa:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/grafico-dona-personal-activo-genero.PNG">
+</div>
+<br>
+
+- Insertando un gráfico de árbol de descomposición par ver como se ramifican los empleados actividos por ciudad y por área:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/arbol-descomposicion.PNG">
+</div>
+<br>
+
 
